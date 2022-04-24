@@ -1,16 +1,15 @@
-### Hi there 👋
+👋<h1> Hello, I'm Muath.</h1> 
 
-<!--
-**MuathNahhas/MuathNahhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-stack Developer(MERN stack) who is passionate to learn new technology and turn ideas
+into something tangible.I aspire to make my mark in the world.
 
-Here are some ideas to get you started:
+My specialties include quickly learning new skills and programming languages problem solving,build and publish a NPM  𝐩𝐚𝐜𝐤𝐚𝐠𝐞, I have Node.JS, React, SQL Server, MySql, MongoDB, Bootstrap, CSS, HTML5,   and JQuery. These skills were learned at the Meraki Academy Bootcamp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I'm a Software Engineer @ MakanE in Amman, Jordan
+
+🔍 I have 3 projects:
+e-Auction 
+Travaleo (Flight Booking)
+Manage Life (note taking)
+
+💬 Please feel free to contact me via LinkedIn. I'm always looking forward to an insightful conversation over new technology, or even better, your your achievements!
