@@ -8,9 +8,9 @@ My specialties include quickly learning new skills and programming languages pro
 🔭 I'm a Software Engineer @ MakanE in Amman, Jordan
 
 🔍 I have 3 projects:
-e-Auction 
-Travaleo (Flight Booking)
-Manage Life (note taking)
+<p>e-Auction</p> 
+<p>Travaleo (Flight Booking)</p>
+<p>Manage Life (note taking)</p>
 
 💬 Please feel free to contact me via ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white). I'm always looking forward to an insightful conversation over new technology, or even better, your your achievements!
 
