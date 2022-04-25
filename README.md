@@ -8,7 +8,16 @@
 I'm a Full-stack Developer(MERN stack) who is passionate to learn new technology and turn ideas
 into something tangible.I aspire to make my mark in the world.
 
-My specialties include quickly learning new skills and programming languages problem solving,build and publish a NPM  𝐩𝐚𝐜𝐤𝐚𝐠𝐞, I have Node.JS, React, SQL Server, MySql, MongoDB, Bootstrap, CSS, HTML5, and JQuery. These skills were learned at the Meraki Academy Bootcamp.
+My specialties include quickly learning new skills and programming languages problem solving,build and publish a NPM  𝐩𝐚𝐜𝐤𝐚𝐠𝐞, I have   
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+,<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+,<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+,<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
+,<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"  title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;, <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;,
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+,<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+,<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+, and <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" title="jquery" alt="jquery" width="40" height="40"/>&nbsp;.These skills were learned at the Meraki Academy Bootcamp.
 
 🔭 I'm a Software Engineer @ MakanE in Amman, Jordan
 
@@ -20,6 +29,5 @@ My specialties include quickly learning new skills and programming languages pro
 💬 Please feel free to contact me via [![Linkedin Badge](https://img.shields.io/badge/-Muath-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muath-al-nahhas/). I'm always looking forward to an insightful conversation over new technology, or even better, your your achievements!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuathNahhas&theme=radical)
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 
 
