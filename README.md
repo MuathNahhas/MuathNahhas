@@ -1,4 +1,4 @@
-👋<h1> Hello, I'm Muath.</h1> 
+👋 Hello, I'm Muath 
 
 I'm a Full-stack Developer(MERN stack) who is passionate to learn new technology and turn ideas
 into something tangible.I aspire to make my mark in the world.
