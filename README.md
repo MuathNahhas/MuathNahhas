@@ -28,7 +28,7 @@ These skills were learned at the Meraki Academy Bootcamp.
 <p>Travaleo (Flight Booking)</p>
 <p>Manage Life (note taking)</p>
 
-:fire: My Stats :
+fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MuathNahhas&theme=dark&background=000000)](https://git.io/streak-stats)
 
 💬 Please feel free to contact me via [![Linkedin Badge](https://img.shields.io/badge/-Muath-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muath-al-nahhas/). I'm always looking forward to an insightful conversation over new technology, or even better, your your achievements!
