@@ -1,7 +1,7 @@
 <h2> 👋 Hello, I'm Muath </h2>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+</div></br>
 
 I'm a Full-stack Developer(MERN stack) who is passionate to learn new technology and turn ideas
 into something tangible.I aspire to make my mark in the world.
