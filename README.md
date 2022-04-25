@@ -29,7 +29,7 @@ These skills were learned at the Meraki Academy Bootcamp.
 <p>Manage Life (note taking)</p>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MuathNahhas&theme=dark&background=000000)](https://git.io/streak-stats)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuathNahhas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MuathNahhas&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuathNahhas&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 💬 Please feel free to contact me via [![Linkedin Badge](https://img.shields.io/badge/-Muath-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muath-al-nahhas/) .I'm always looking forward to an insightful conversation over new technology, or even better, your your achievements!
