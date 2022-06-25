@@ -28,10 +28,10 @@ These skills were learned at the Meraki Academy Bootcamp.
 - <p>Nasa Project (Built via online courses with Zero To Mastery Academy)</p>
 
 ### :fire: My Stats :
-<p align="center">
-<img width="450" align="center" src="https://github-readme-stats-MuathNahhas.vercel.app/api?username=MuathNahhas&show_icons=true&line_height=21&theme=react" alt="MuathNahhas Github Stats" />
-<img width="340" height="155" align="center" 
-     src="https://github-readme-stats-MuathNahhas.vercel.app/api/top-langs/?username=MuathNahhas&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" />
-</p>
+<a href="">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=MuathNahhas&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+<a />
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuathNahhas&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
 💬 Please feel free to contact me via [![Linkedin Badge](https://img.shields.io/badge/-Muath-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muath-al-nahhas/) .I'm always looking forward to an insightful conversation over new technology, or even better, your achievements!
