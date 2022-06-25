@@ -31,7 +31,7 @@ These skills were learned at the Meraki Academy Bootcamp.
 <a href="">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=MuathNahhas&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 <a />
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuathNahhas&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuathNahhas&show_icons=true&theme=radical)
+
 
 💬 Please feel free to contact me via [![Linkedin Badge](https://img.shields.io/badge/-Muath-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muath-al-nahhas/) .I'm always looking forward to an insightful conversation over new technology, or even better, your achievements!
