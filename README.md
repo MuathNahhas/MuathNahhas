@@ -24,7 +24,7 @@ These skills were learned at the Meraki Academy Bootcamp.
 
 🔭 I'm a Software Engineer @ MakanE in Amman, Jordan
 
-🔍 I have 3 projects:
+🔍 I have multi projects:
 - <p>e-Auction</p> 
 - <p>Travaleo (Flight Booking)</p>
 - <p>Manage Life (note taking)</p>
