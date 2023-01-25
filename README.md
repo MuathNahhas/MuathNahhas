@@ -30,7 +30,7 @@ These skills were learned at the Meraki Academy Bootcamp.
 - <p>Manage Life (note taking)</p>
 - <p>Nasa Project (Built via online courses with Zero To Mastery Academy)</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/MuathNahhas/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MuathNahhas&repo=github-readme-stats" />
 </a>
 
