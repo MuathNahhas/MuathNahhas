@@ -31,7 +31,9 @@ These skills were learned at the Meraki Academy Bootcamp.
 - <p>Nasa Project (Built via online courses with Zero To Mastery Academy)</p>
 
 ### :fire: My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuathNahhas&show_icons=true&theme=transparent)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MuathNahhas&repo=convoychat" />
+</a>
 
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuathNahhas&show_icons=true&theme=radical)
