@@ -29,7 +29,11 @@ These skills were learned at the Meraki Academy Bootcamp.
 - <p>Travaleo (Flight Booking)</p>
 - <p>Manage Life (note taking)</p>
 - <p>Nasa Project (Built via online courses with Zero To Mastery Academy)</p>
-- 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MuathNahhas&repo=github-readme-stats" />
+</a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuathNahhas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 💬 Please feel free to contact me via [![Linkedin Badge](https://img.shields.io/badge/-Muath-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muath-al-nahhas/) .I'm always looking forward to an insightful conversation over new technology, or even better, your achievements!
