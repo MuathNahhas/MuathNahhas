@@ -8,6 +8,7 @@ into something tangible.I aspire to make my mark in the world.
 
 My specialties include quickly learning new skills and programming languages problem solving,build and publish a NPM  𝐩𝐚𝐜𝐤𝐚𝐠𝐞, I have   
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-line-wordmark.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
 ,<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 ,<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 ,<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
@@ -22,7 +23,7 @@ My specialties include quickly learning new skills and programming languages pro
 
 These skills were learned at the Meraki Academy Bootcamp.
 
-🔭 I'm a Software Engineer @ MakanE in Amman, Jordan
+🔭 I'm a Full-Stack Engineer @ Qawn in Amman, Jordan
 
 🔍 I have multi projects:
 - <p>e-Auction</p> 
