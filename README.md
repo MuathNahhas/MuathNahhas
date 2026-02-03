@@ -1,36 +1,43 @@
-<h2> 👋 Hello, I'm Muath </h2>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div></br>
+# 👋 Hello, I'm Muath Al-Nahhas
 
-I'm a Full-stack Developer(MERN stack) who is passionate to learn new technology and turn ideas
-into something tangible.I aspire to make my mark in the world.
+### Full Stack Engineer | JavaScript & TypeScript Specialist
+[cite_start]I am an enthusiastic Full-Stack Software Engineer with 2+ years of experience building scalable web applications and ERP systems across **Fintech, E-commerce, and Manufacturing** sectors[cite: 30]. [cite_start]I specialize in **React, Node.js, and Nest.js**, with a strong focus on clean code and solving complex technical challenges in collaborative environments[cite: 31].
 
-My specialties include quickly learning new skills and programming languages problem solving,build and publish a NPM  𝐩𝐚𝐜𝐤𝐚𝐠𝐞, I have   
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-line-wordmark.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
-,<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-,<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-,<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
-,<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"  title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;, <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;,
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-,<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-,<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-,<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" title="jquery" alt="jquery" width="40" height="40"/>&nbsp;
-,<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
-,<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" title="GraphQL"  alt="GraphQL" width="40" height="40"/>&nbsp;
+---
 
+### 🚀 Professional Experience
+* [cite_start]**Full Stack Engineer @ Al-Durra International**: Architecting international websites and custom ERP systems for factory operations and distribution[cite: 9, 10, 11, 12].
+* [cite_start]**Full Stack Engineer @ OpenSooq**: Scaled marketplace platforms using **Nest.js** and **Kysely** for optimized SQL performance[cite: 15, 16, 19].
+* [cite_start]**Full Stack Engineer @ Qawn**: Built financial operations platforms and secure banking workflows on **AWS**[cite: 22, 23, 25, 27].
+* [cite_start]**Software Engineer @ Nafith Logistics**: Developed real-time vehicle tracking and automated billing systems[cite: 48, 49, 52, 53].
+* [cite_start]**Software Engineer @ MakanE**: Reduced delivery partner onboarding time by **40%** through API integration layers[cite: 56, 57, 61, 62].
 
-These skills were learned at the Meraki Academy Bootcamp.
+---
 
-🔭 I'm a Full-Stack Engineer @ Qawn in Amman, Jordan
+### 🛠 Technical Stack
 
-🔍 I have multi projects:
-- <p>e-Auction</p> 
-- <p>Travaleo (Flight Booking)</p>
-- <p>Manage Life (note taking)</p>
-- <p>Nasa Project (Built via online courses with Zero To Mastery Academy)</p>
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | [cite_start]React.js, Redux, Tailwind CSS, Native Script [cite: 40] |
+| **Backend** | [cite_start]Node.js, Nest.js, Express.js, Sails.js, CFML [cite: 41, 55] |
+| **Database** | [cite_start]PostgreSQL, MySQL, MongoDB, Redis, SQL Server [cite: 42] |
+| **DevOps/Tools** | [cite_start]AWS, Docker, CI/CD, Git, Jest, Firebase [cite: 43] |
+| **Languages** | [cite_start]TypeScript, JavaScript [cite: 44] |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuathNahhas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-💬 Please feel free to contact me via [![Linkedin Badge](https://img.shields.io/badge/-Muath-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muath-al-nahhas/) .I'm always looking forward to an insightful conversation over new technology, or even better, your achievements!
+### 🎓 Education & Background
+* [cite_start]**Meraki Academy**: Immersive Full Stack Web Development Bootcamp (700+ hours)[cite: 33, 35].
+* [cite_start]**The University of Jordan**: Bachelor of Mechanical Engineering[cite: 36, 38].
+
+---
+
+### 📬 Connect with Me
+* [cite_start]**LinkedIn**: [linkedin.com/in/muath-al-nahhas](https://linkedin.com/in/muath-al-nahhas) [cite: 7]
+* [cite_start]**Email**: muath.nahhas@yahoo.com [cite: 3]
+* **Location**: Amman, Jordan 🇯🇴
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuathNahhas&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+</p>
